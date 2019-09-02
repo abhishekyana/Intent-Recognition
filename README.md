@@ -19,7 +19,7 @@ IR.loadntrain()
 text = 'book a flight from paris to london'
 response = IR(text)
 
-#Check the response
+#Print the response
 print(response)
 ```
 Output is:
